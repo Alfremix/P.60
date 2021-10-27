@@ -1,0 +1,47 @@
+body{
+    background-color: darkslategray;
+    text-align: center;
+}
+
+.menu{
+    background-color: dimgrey;
+    height: 50px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.link {
+    color: ghostwhite;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 50px;
+    margin: 20px;
+}
+
+.link:hover{
+    background-color: darkslategray;
+    padding: 50px;
+}
+
+i{
+    color: gainsboro;
+}
+
+h2{
+    color: ghostwhite;
+}
+
+p{
+    color: ghostwhite;
+}
+#logo{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    cursor: pointer;
+}
+
+.profile{
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 100px;
+}
